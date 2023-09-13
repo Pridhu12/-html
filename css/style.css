@@ -1,0 +1,19 @@
+h1{
+    font-size: 40px;
+    color: rgb(22, 10, 163);
+}
+.odd{  font-size: 46px;
+    border: 8px dotted rgb(208, 211, 201);
+}
+.even{  font-size: 35px;   background-image:url("haikyuu-anime.gif");
+    border: 8px solid rgb(16, 16, 167);
+}
+#middle{ border: 8px  solid crimson;
+    color: rgba(24, 2, 65, 0.864);
+}
+h2{
+    font-size: 28px;  color: rgb(0, 252, 185);
+}
+#{
+    border: 8px ;
+}
